@@ -2,4 +2,6 @@ CONTENT
 -----------------------------------------------------------------------------
 TODO					https://github.com/wanhuiconcordia/todo
 c_examples				https://github.com/wanhuiconcordia/c_examples
+python_examples				https://github.com/wanhuiconcordia/python_examples
 notes					https://github.com/wanhuiconcordia/notes.git
+
